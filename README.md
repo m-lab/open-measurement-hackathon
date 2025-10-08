@@ -1,15 +1,5 @@
 # Open Measurement Hackathon @ ACM IMC 2025
 
-## Table of Contents
-
-- [Agenda](#agenda)
-- [Datasets and Projects](#datasets-and-projects)
-  - [Cloudflare Radar](#cloudflare-radar)
-  - [OONI](#ooni)
-  - [M-Lab](#m-lab)
-  - [IIJ - Internet Yellow Pages](#iij---internet-yellow-pages)
-  - [Reverse Traceroute](#reverse-traceroute)
-
 ## Agenda
 
 **Schedule**
