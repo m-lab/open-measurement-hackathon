@@ -23,7 +23,7 @@ You can find details about the datasets (descriptions, tutorials, etc.) and list
 
 * [Cloudflare - Project 1: Aggregate and visualize metrics across platforms](team-projects/cloudflare-project-1/README.md)
 * [OONI - Project 1: Analyze and visualize internet censorship data](team-projects/ooni-project-1/README.md)
-* [OONI - Project 2: Encrypted Client Hello (ECH) blocking](team-projects/ooni-rproject-2/README.md)
+* [OONI - Project 2: Encrypted Client Hello (ECH) blocking](team-projects/ooni-project-2/README.md)
 * [OONI - Project 4: Examine TLS certificate diversity across countries/networks](team-projects/ooni-project-4/README.md)
 * [M-Lab - Project 6:  “State of the Net”: Interactive Internet performance reports](team-projects/mlab-project-6/README.md)
 * [IIJ - Project 4: Web centralization](team-projects/iij-project-4/README.md)
