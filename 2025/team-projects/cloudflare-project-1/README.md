@@ -8,5 +8,5 @@ Radar provides a number of metrics that can help assess the occurrence and impac
 ## Proposed Project:
 Build a publicly-accessible web-based dashboard that takes a country code or AS number and a date or time period (24h, 7d, etc) as input, and visualizes relevant metrics across providers. Can be on a single graph, or may be across per-metric graphs. Challenges likely include aggregation periods differing across providers, and how providers represent metric values (zero-to-max, absolute values, percentages, etc.)
 
-## Team 1 Presentation
+## Hackathon Team Presentation
 * [Internet outages: inbound & outbound measurements view](Group1_OneTimeseries_AllPlatforms.pdf)
