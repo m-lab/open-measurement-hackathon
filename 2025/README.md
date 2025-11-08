@@ -26,6 +26,7 @@ You can find details about the datasets (descriptions, tutorials, etc.) and list
 * [OONI - Project 2: Encrypted Client Hello (ECH) blocking](team-projects/ooni-project-2/README.md)
 * [OONI - Project 4: Examine TLS certificate diversity across countries/networks](team-projects/ooni-project-4/README.md)
 * [M-Lab - Project 6:  “State of the Net”: Interactive Internet performance reports](team-projects/mlab-project-6/README.md)
+* [IIJ - Combination of Project 1 - Visualization of IYP Data & Project 3 - Adding Data to IYP](team-projects/iij-projects-1-3/README.md)
 * [IIJ - Project 4: Web centralization](team-projects/iij-project-4/README.md)
 * [Compare v4 vs v6 performance](team-projects/ipv4-ipv6-comparison/README.md)
 
