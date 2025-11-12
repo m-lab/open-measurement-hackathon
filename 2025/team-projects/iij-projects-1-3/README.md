@@ -1,10 +1,4 @@
-# [IIJ - Project 1] Visualization of IYP data 
-Create visualizations for IYP data. Fetch data from IYP and plot it with your favorite visualization tools. For example:
-* Projection on a map of geolocated infrastructure (PeeringDB, ASRank, Atlas)
-* Selected ASes point of presences using PeeringDB’s co-location facility information
-* Internet population using APNIC AS population and ASRank lat/lon coordinates
-
-# [IIJ - Project 3] Adding data to IYP
+# Adding LACeS anycast geolocation dataset to Internet Yellow Pages (IYP)
 Start a local IYP instance and add your favorite dataset to IYP. This would connect the imported dataset with the 60+ datasets already integrated into IYP, hence enabling new analysis. 
 
 ## Hackathon Team Presentation

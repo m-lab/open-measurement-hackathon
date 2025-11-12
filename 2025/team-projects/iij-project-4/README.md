@@ -1,4 +1,4 @@
-# [IIJ - Project 4] Web centralization
+# Web centralization
 * Reproduce (and extend if possible) key results from this [recent study on web centralization: https://cs.stanford.edu/~gakiwate/papers/sigcomm25-centralization.pdf](https://cs.stanford.edu/~gakiwate/papers/sigcomm25-centralization.pdf) 
 * Main datasets are available in IYP (CRuX, DNS, BGP) with the exception of TLS
 

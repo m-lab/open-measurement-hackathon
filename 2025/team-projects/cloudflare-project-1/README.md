@@ -1,4 +1,4 @@
-# [Cloudflare Radar - Project 1] Aggregate and visualize metrics across platforms
+# Internet outages: inbound & outbound measurements view
 
 Radar provides a number of metrics that can help assess the occurrence and impact of a potential Internet disruption. (These include traffic metrics for HTTP requests, Netflows, and DNS; TCP resets & timeouts, bandwidth & latency, and announced IP address space.) However, these are largely all from a single platform. In order to corroborate observed disruptions, it would be helpful to have an aggregated view that includes metrics from other platforms. For example, for a given date or time period (last 24 hours):
 * Has OONI seen an increased in failed measurements from the country/ASN?

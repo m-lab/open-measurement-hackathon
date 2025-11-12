@@ -1,4 +1,4 @@
-# Project Proposed by Hackathon Team - IPv4 vs IPv6 Performance Comparison
+# Comparison of IPv4 vs IPv6 Performance
 
 ## Hackathon Team Presentation
 * [Proposed project idea](CompareV4vsV6performance.pdf)

@@ -1,4 +1,4 @@
-# M-Lab Dataset - Project 6
+# "State of the Net": Interactive Internet perfomance reports
 Our group of 2 took a split approach to this project where we each just looked into what we found interesting in the MLab data.
 
 ## New Zealand Internet Speeds Analysis

@@ -1,4 +1,4 @@
-# [OONI - Project 1] Analyze and visualize internet censorship data
+# Analyze and visualize internet censorship data
 OONI created the [Measurement Aggregation Toolkit (MAT)](https://explorer.ooni.org/chart/mat) which enables you to track internet censorship around the world and create your own custom charts based on real-time OONI network measurement data. As part of this challenge, we invite you to analyze OONI data and create your own data visualization(s) based on the questions you would like to answer.
 
 For example, this could involve exploring the following questions based on OONI data:
