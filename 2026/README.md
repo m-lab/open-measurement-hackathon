@@ -16,7 +16,7 @@ Monday, 12th October 2026
 - 16:00-17:00 Share outs
 
 **Location**  
-(TBD) Karlsruhe Institute of Technology (KIT) campus
+[Karlsruhe Institute of Technology (KIT) campus, Building 50.34 in room -101](https://www.kit.edu/campusplan/?id=50.34)
 
 **Webpage**  
 [https://conferences.sigcomm.org/imc/2026/events/hackathon/](https://conferences.sigcomm.org/imc/2026/events/hackathon/)
