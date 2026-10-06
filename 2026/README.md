@@ -20,3 +20,7 @@ Monday, 12th October 2026
 
 **Webpage**  
 [https://conferences.sigcomm.org/imc/2026/events/hackathon/](https://conferences.sigcomm.org/imc/2026/events/hackathon/)
+
+## Datasets and Project ideas
+
+You can find details about the datasets (descriptions, tutorials, etc.) and list of projects at [link](https://docs.google.com/document/d/1LRwnurZ7sWT_I8WmlyoA3rJmMNzJ3_cMPqQ8uaUj3Hk/edit?usp=sharing)
